@@ -1,4 +1,4 @@
-<html>
+ <html>
 	<head>
 		<title>Pagina principal</title>
 		<link rel="stylesheet" type="text/css" href="estilos.css" media="screen" />
@@ -25,7 +25,7 @@
 				</li>
 				<li><a href="">Areas</a>
 					<ul>
-						<li><a href="">Submenu1</a></li>
+						<li><a href="">Submenu</a></li>
 						<li><a href="">Submenu2</a></li>
 						<li><a href="">Submenu3</a></li>
 						<li><a href="">Submenu4</a></li>
